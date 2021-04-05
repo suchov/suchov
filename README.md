@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭  I’m the founder at https://kottans.org/ || https://github.com/kottans
-👯  I'm currently working on https://pythonschool.io/ & https://rubyschool.io/ (open for collaboration here)
+- 🔭  I’m the founder at https://kottans.org/ || https://github.com/kottans
+- 👯  I'm currently working on https://pythonschool.io/ & https://rubyschool.io/ (open for collaboration here)
 
 <!--
 **suchov/suchov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
