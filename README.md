@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  I’m the founder at https://kottans.org/ || https://github.com/kottans
+- 🔭  I'm the founder at https://github.com/kottans
 - 👯  I'm currently working on https://pythonschool.io/ & https://rubyschool.io/ (open for collaboration here)
 
 <!--
