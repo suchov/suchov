@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg
+
 - 🔭  I'm the founder at https://github.com/kottans
 - 👯  I'm currently working on https://pythonschool.io/ & https://rubyschool.io/ (open for collaboration here)
 
