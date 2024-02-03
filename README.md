@@ -4,6 +4,7 @@
 
 - 🔭  I'm the founder at https://github.com/kottans
 - I love to inspire people and learn new things together
+- Join our fan at [Discord](https://discord.gg/G6nzhNcr2j)
 
 <!--
 **suchov/suchov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
